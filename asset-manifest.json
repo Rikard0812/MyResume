@@ -1,26 +1,28 @@
 {
   "files": {
-    "main.css": "/MyResume/static/css/main.51180617.chunk.css",
-    "main.js": "/MyResume/static/js/main.f0d05071.chunk.js",
-    "main.js.map": "/MyResume/static/js/main.f0d05071.chunk.js.map",
+    "main.css": "/MyResume/static/css/main.4ef3fb1e.chunk.css",
+    "main.js": "/MyResume/static/js/main.92d4367f.chunk.js",
+    "main.js.map": "/MyResume/static/js/main.92d4367f.chunk.js.map",
     "runtime-main.js": "/MyResume/static/js/runtime-main.88702c3d.js",
     "runtime-main.js.map": "/MyResume/static/js/runtime-main.88702c3d.js.map",
     "static/css/2.56e33495.chunk.css": "/MyResume/static/css/2.56e33495.chunk.css",
-    "static/js/2.0b85b5dd.chunk.js": "/MyResume/static/js/2.0b85b5dd.chunk.js",
-    "static/js/2.0b85b5dd.chunk.js.map": "/MyResume/static/js/2.0b85b5dd.chunk.js.map",
+    "static/js/2.b9ca9912.chunk.js": "/MyResume/static/js/2.b9ca9912.chunk.js",
+    "static/js/2.b9ca9912.chunk.js.map": "/MyResume/static/js/2.b9ca9912.chunk.js.map",
     "index.html": "/MyResume/index.html",
-    "precache-manifest.4a9c92b8c6a12c9f50bd95bca173d383.js": "/MyResume/precache-manifest.4a9c92b8c6a12c9f50bd95bca173d383.js",
+    "precache-manifest.cb3f503f63fe1fb3e35c9722ab52a797.js": "/MyResume/precache-manifest.cb3f503f63fe1fb3e35c9722ab52a797.js",
     "service-worker.js": "/MyResume/service-worker.js",
     "static/css/2.56e33495.chunk.css.map": "/MyResume/static/css/2.56e33495.chunk.css.map",
-    "static/css/main.51180617.chunk.css.map": "/MyResume/static/css/main.51180617.chunk.css.map",
-    "static/js/2.0b85b5dd.chunk.js.LICENSE.txt": "/MyResume/static/js/2.0b85b5dd.chunk.js.LICENSE.txt",
-    "static/media/Me.jpg": "/MyResume/static/media/Me.0e18c132.jpg"
+    "static/css/main.4ef3fb1e.chunk.css.map": "/MyResume/static/css/main.4ef3fb1e.chunk.css.map",
+    "static/js/2.b9ca9912.chunk.js.LICENSE.txt": "/MyResume/static/js/2.b9ca9912.chunk.js.LICENSE.txt",
+    "static/media/Hiber.png": "/MyResume/static/media/Hiber.e87d1daf.png",
+    "static/media/Me.jpg": "/MyResume/static/media/Me.0e18c132.jpg",
+    "static/media/vivab.png": "/MyResume/static/media/vivab.891788f1.png"
   },
   "entrypoints": [
     "static/js/runtime-main.88702c3d.js",
     "static/css/2.56e33495.chunk.css",
-    "static/js/2.0b85b5dd.chunk.js",
-    "static/css/main.51180617.chunk.css",
-    "static/js/main.f0d05071.chunk.js"
+    "static/js/2.b9ca9912.chunk.js",
+    "static/css/main.4ef3fb1e.chunk.css",
+    "static/js/main.92d4367f.chunk.js"
   ]
 }
