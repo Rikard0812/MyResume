@@ -1,0 +1,85 @@
+﻿.imageOfMe {
+    position:absolute;
+    width: 300px;
+    margin-left: 40rem;
+    padding-top: 6rem;
+}
+
+.textAlign {
+    margin-left: 10rem;
+    padding-top: 8rem;
+    
+}
+
+.textToTopMargin {
+    padding-top: 400px;
+    padding-bottom: 50px;
+    text-align: center;
+}
+
+.textToEducationMargin {
+    padding-top: 100px;
+    padding-bottom: 50px;
+    text-align: center;
+}
+
+.bottomPadding {
+    padding-bottom:10rem;
+}
+
+.EducationCard_image {
+    margin-left: 87.5px;
+    width: 50%;
+}
+.EducationCard_image_PS {
+    padding-top: 45px;
+    margin-left: 87.5px;
+    width: 50%;
+}
+
+.arvato_image {
+    width: 120%;
+    padding-right: 60px;
+    padding-top: 20px;
+}
+
+.vivab_image {
+    width: 50%;
+    margin-left: 87px;
+    padding-top: 60px;
+    margin-bottom: 50px;
+}
+
+.circle1 {
+    display: flex;
+    width: 150px;
+    height: 150px;
+    background-color: mediumblue;
+    border-radius: 50%;
+    position: absolute;
+    margin: 100px 350px;
+}
+
+.circle2 {
+    display: flex;
+    width: 180px;
+    height: 180px;
+    background-color: lightgreen;
+    border-radius: 50%;
+    position: absolute;
+    margin: 160px 220px;
+}
+
+.circle3 {
+    display: flex;
+    width: 130px;
+    height: 130px;
+    background-color: sandybrown;
+    border-radius: 50%;
+    position: absolute;
+    margin: 80px 180px;
+}
+
+.socialIconPadding{
+    margin-top: 20px;
+}
